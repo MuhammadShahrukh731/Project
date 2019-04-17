@@ -1,0 +1,8 @@
+1)admin pannel
+2)user pannel
+3)Employee
+4)approval
+5)add user list
+6)delte user
+7)update user
+8)delete all user
